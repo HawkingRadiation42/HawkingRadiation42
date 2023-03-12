@@ -1,7 +1,7 @@
 
 ### HawkingRadiation42
 <br>
-Just a guy looking to craft really awesome software.
+Just a guy looking to craft really awesome softwares.
 <br>
 <br>
 
