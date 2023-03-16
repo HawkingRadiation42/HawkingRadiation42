@@ -8,7 +8,7 @@ Just a guy looking to craft really awesome softwares.
 My Interests:
 * Backend 
 * Cloud
-* Computer Vision
+* Image Recognition using Deep Learning
 
 <br>
 
