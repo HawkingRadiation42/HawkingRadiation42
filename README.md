@@ -16,3 +16,7 @@ My Interests:
 
 
 ![hawkingradiation's github stats](https://github-readme-stats.vercel.app/api?username=HawkingRadiation42&show_icons=true&hide_border=False&theme=dracula&count_private=true)
+
+
+<br> 
+Minimalistic README is so cool!
