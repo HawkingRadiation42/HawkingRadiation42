@@ -7,8 +7,8 @@ Just a guy looking to craft really awesome softwares.
 
 My Interests:
 * Backend 
+* Deep Learning
 * DevOps
-* Image Recognition using Deep Learning
 
 <br>
 
