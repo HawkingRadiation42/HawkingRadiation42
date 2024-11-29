@@ -18,4 +18,3 @@ My Interests:
 <!-- ![](https://komarev.com/ghpvc/?username=hawkingradiation42&color=ff69b4) -->
 
 <br> 
-Minimalistic README is so cool!
