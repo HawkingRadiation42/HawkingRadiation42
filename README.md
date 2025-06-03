@@ -13,7 +13,7 @@ My Interests:
 <br>
 
 
-![hawkingradiation's github stats](https://github-readme-stats.vercel.app/api?username=HawkingRadiation42&show_icons=true&hide_border=False&theme=dracula&count_private=true)
+<!-- ![hawkingradiation's github stats](https://github-readme-stats.vercel.app/api?username=HawkingRadiation42&show_icons=true&hide_border=False&theme=dracula&count_private=true) --> 
 
 <!-- ![](https://komarev.com/ghpvc/?username=hawkingradiation42&color=ff69b4) -->
 
