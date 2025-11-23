@@ -6,9 +6,10 @@ Just a guy looking to craft some really awesome software.
 <br>
 
 My Interests:
-* Backend 
+* Systems 
 * Deep Learning
-* DevOps
+* LLM
+* Agents
 
 <br>
 
