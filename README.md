@@ -7,7 +7,6 @@ Just a guy looking to craft some really awesome software.
 
 My Interests:
 * Systems 
-* LLM
 * Agents
 * Deep Learning
 
